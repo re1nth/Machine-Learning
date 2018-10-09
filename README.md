@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Techniques
+Implemented various Machine Learning Techniques in Python from scratch
